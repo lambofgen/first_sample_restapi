@@ -1,1 +1,1 @@
-My first sample restful api
+My first sample restful api by golang
